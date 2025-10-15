@@ -55,7 +55,6 @@ function func24(str){
   console.log(`Count of vowels in string ${str} is ${cnt}`);
 }
 
-
 // Qs5. Write a JavaScript function to generate a random number within a range (start, end).
 
 function func25(){
